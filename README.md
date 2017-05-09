@@ -22,18 +22,18 @@ Dockerfile to build an Alfresco container image.
 # Contributing
 Here is how you can help:
 - Send a Pull Request with your awesome new features and bug fixes
-- Report [Issues](https://github.com/gui81/docker-alfresco/issues)
+- Report [Issues](https://github.com/sorrell/docker-alfresco/issues)
 
 
 # Installation
 Pull the image from the docker index.
 ```bash
-docker pull gui81/alfresco:latest
+docker pull sorrell/alfresco:latest
 ```
 
 or pull a particular version:
 ```bash
-docker pull gui81/alfresco:5.0.d-1
+docker pull sorrell/alfresco:5.0.d-1
 ```
 
 Alternatively, you can build the image yourself:
